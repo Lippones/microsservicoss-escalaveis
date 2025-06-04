@@ -3,6 +3,7 @@ onlyBuiltDependencies:
   - core-js
   - esbuild
   - keccak
+  - protobufjs
   - scrypt
   - secp256k1
   - sha3
