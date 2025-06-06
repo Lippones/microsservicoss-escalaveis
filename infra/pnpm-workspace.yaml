@@ -1,3 +1,5 @@
+packages: []
+
 onlyBuiltDependencies:
   - '@pulumi/docker'
   - '@pulumi/docker-build'
