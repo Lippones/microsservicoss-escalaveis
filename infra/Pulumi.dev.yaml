@@ -1,0 +1,6 @@
+config:
+  aws:region: us-east-1
+  node-infra:orders_database_url:
+    secure: AAABAEy9WQl178iwnjmsFqHpUfSu0jKbo+Fuyjj5uLOgbiZ3nd+ETXkDSdkX+bIa8SXDzgnntp57zLhiZkQ14/j9EtPY/6GefpXNvLizoYKSzYD2nL6qLU2h5tT8BqqEH30HGUnnMLyw/459I5K2hLbT2QVQqhzub2E72kkCrClMZVlbJCX4JKJsAxsSC5N3Og==
+  node-infra:invoices_database_url:
+    secure: AAABAAPR7j0s//fMRh4+ULU9AQLEZ0FtMsHRBWv74txnVLa/dQmOIVO+VRGcksqWFMUz2ZpxM9ONMUsi7oIRDdeZeThmsMKLwIadsVLdfIxRIop+d4/3SvchLEDmjCNGyK8TzHGNSsnbnKzotLUJxRH2yKtJjEpH9VBxzPYBvYKHyoEEQZd72c/OIAh4ou6fN0nQR2noYkY=
